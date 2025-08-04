@@ -1,3 +1,7 @@
+# Personalized NewsBot
+
+---
+
 ## 🚀 Features
 
 - ✅ **Structured JSON Output**  
